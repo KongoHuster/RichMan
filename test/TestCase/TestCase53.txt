@@ -1,0 +1,6 @@
+preset user AQ
+preset fund A 4000
+preset fund Q 2000
+step 14
+dump
+//公园是否提示进入下一个玩家

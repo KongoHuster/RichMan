@@ -1,0 +1,16 @@
+user QS
+map[2] S 1
+map[3] Q 0
+fund Q 10000
+fund S 10000
+credit Q 100
+credit S 10
+gift Q barrier 0
+gift Q robot 0
+gift Q god 0
+gift S barrier 0
+gift S robot 0
+gift S god 0
+userloc Q 0
+userloc S 0
+nextuser S

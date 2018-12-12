@@ -1,0 +1,16 @@
+preset user QA
+preset fund A 1000
+preset fund Q 1000
+preset gift A robot 10
+preset gift Q robot 10
+preset gift A barrier 10
+preset gift Q barrier 10
+query
+block 5
+step 1
+n
+robot
+step 10
+n
+dump
+//test the function of robot

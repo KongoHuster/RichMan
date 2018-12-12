@@ -1,0 +1,24 @@
+preset user AQ
+preset map 1 A 1
+preset map 2 A 1
+preset map 3 A 1
+preset map 4 A 1
+preset map 6 Q 1
+preset fund A 1000
+preset fund Q 1000
+preset gift A barrier 10
+preset gift Q barrier 10
+query
+sell 1
+block 10
+step 5
+y
+block 9
+sell 6
+step 6
+y
+dump
+//test cmd order of player
+//block in 9 10
+//house A 2 3 4 5
+//house Q 6

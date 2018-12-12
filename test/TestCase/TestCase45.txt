@@ -1,0 +1,10 @@
+preset user SJ
+preset fund S 2000
+preset fund J 2000
+preset gift S barrier 2
+preset map 3 S 1
+block 2
+Sell 3
+save
+dump
+//roll的前一条输入save,道具和卖房

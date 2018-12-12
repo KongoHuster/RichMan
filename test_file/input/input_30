@@ -1,0 +1,14 @@
+preset user SJ
+preset fund S 1000
+preset fund J 1000
+preset credit S 80
+preset credit J 80
+preset userloc S 0 0
+preset userloc J 0 0
+preset nextuser S
+e
+step 28
+1
+dump
+quit
+

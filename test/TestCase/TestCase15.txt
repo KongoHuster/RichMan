@@ -1,0 +1,10 @@
+preset user QA
+preset fund A 1000
+preset fund Q 100
+query
+step 35
+y
+1
+query
+dump
+//test for buy special place : gift house 35

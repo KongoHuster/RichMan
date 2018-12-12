@@ -1,0 +1,8 @@
+preset user QS
+preset credit Q 100
+preset credit S 10
+preset block 2
+preset gift Q block 2
+block 2
+dump
+//道具是否允许放在有道具得地方

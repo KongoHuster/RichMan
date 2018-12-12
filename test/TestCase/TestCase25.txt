@@ -1,0 +1,21 @@
+preset user AQS
+preset map 1 A 1
+preset map 2 A 1
+preset map 3 A 1
+preset map 4 A 1
+preset map 5 Q 3
+preset map 6 Q 3
+preset map 7 Q 3
+preset map 8 Q 3
+preset fund A 10
+preset fund Q 1000
+preset fund S 1000
+query
+step 5
+step 5
+n
+step 1
+n
+dump
+//test after bankrupt ,house will be public
+//S has money 1000

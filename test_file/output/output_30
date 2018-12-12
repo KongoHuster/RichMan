@@ -1,0 +1,9 @@
+user SJ
+fund S 1000
+fund J 1000
+credit S 30
+credit J 80
+gift S barrier 1
+userloc S 28
+userloc J 0
+nextuser J

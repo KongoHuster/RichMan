@@ -1,0 +1,9 @@
+preset user QS
+preset credit Q 100
+preset credit S 10
+preset map 2 S 1
+preset map 3 Q 0
+Sell 3
+Query
+dump
+//卖房金钱是否入库

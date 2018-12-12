@@ -1,0 +1,14 @@
+preset user QA
+preset map 1 A 1
+preset map 2 A 1
+preset map 3 A 1
+preset map 4 A 1
+preset fund A 1000
+preset fund Q 1000
+preset gift A god 5
+preset gift Q god 5
+query
+step 1
+query
+dump
+//test the function of god 

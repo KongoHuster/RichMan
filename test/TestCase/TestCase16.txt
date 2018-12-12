@@ -1,0 +1,10 @@
+preset user QA
+preset fund A 1000
+preset fund Q 100
+query
+step 49
+y
+1
+query
+dump
+//test for buy special place : park 49

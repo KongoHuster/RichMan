@@ -1,0 +1,14 @@
+user QJ
+fund Q 10000
+fund J 10000
+credit Q 100
+credit J 10
+gift Q barrier 0
+gift Q robot 0
+gift Q god 0
+gift J barrier 0
+gift J robot 0
+gift J god 0
+userloc Q 0
+userloc J 0
+nextuser J

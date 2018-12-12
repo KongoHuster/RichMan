@@ -1,0 +1,23 @@
+preset user AQS
+preset map 1 A 1
+preset map 2 A 1
+preset map 3 A 1
+preset map 4 A 1
+preset map 5 Q 3
+preset map 6 Q 3
+preset map 7 Q 3
+preset map 8 Q 3
+preset fund A 10
+preset fund Q 1000
+preset fund S 1000
+query
+sell 1
+step 10
+y
+sell 5
+step 1
+y
+dump
+//test buy house after  sell
+//A house 2 3 4 10
+//Q house 1 6 7 8

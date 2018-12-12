@@ -1,0 +1,9 @@
+preset user AJ
+preset credit A 100
+preset credit J 10
+step 28
+1
+1
+Query
+dump
+//道具屋是否只能买一个

@@ -1,0 +1,9 @@
+preset user QA
+preset fund A 1000
+preset fund Q 100
+query
+step 68
+y
+query
+dump
+//test for buy special place : mine 

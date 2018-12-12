@@ -1,0 +1,8 @@
+user AQ
+fund A 10000
+fund Q 10000
+credit A 150
+gift A barrier 1
+userloc A 28
+userloc Q 2
+nextuser A

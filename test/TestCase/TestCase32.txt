@@ -1,0 +1,10 @@
+preset user AQ
+preset credit A 100
+preset credit Q 10
+preset fund A 1000
+preset fund Q 1000
+preset map 2 Q 1
+step 2
+y
+dump
+//是否可以买私有地

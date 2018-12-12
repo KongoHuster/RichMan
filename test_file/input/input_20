@@ -1,0 +1,31 @@
+preset user AQ
+preset map 27 Q 0
+preset fund A 10000
+preset fund Q 10000
+preset userloc A 34 0
+preset userloc Q 0 0
+preset nextuser A
+e
+step 1
+3
+step 27
+n
+step 62
+step 70
+n
+step 70
+step 70
+n
+step 70
+step 70
+n
+step 70
+step 70
+n
+step 69
+n
+step 70
+n
+dump
+
+quit

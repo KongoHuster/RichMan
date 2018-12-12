@@ -1,0 +1,28 @@
+user AQS
+map[1] Q 1
+map[2] A 1
+map[3] A 1
+map[4] A 1
+map[6] Q 3
+map[7] Q 3
+map[8] Q 3
+map[10] A 0
+fund A 610
+fund Q 2200
+fund S 1000
+credit A 0
+credit Q 0
+credit S 0
+gift A barrier 0
+gift A robot 0
+gift A god 0
+gift Q barrier 0
+gift Q robot 0
+gift Q god 0
+gift S barrier 0
+gift S robot 0
+gift S god 0
+userloc A 10
+userloc Q 1
+userloc S 0
+nextuser A

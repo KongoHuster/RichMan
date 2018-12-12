@@ -1,0 +1,20 @@
+user ASJ
+fund A 1000
+fund S 2000
+fund J 2000
+credit A 0
+credit S 0
+credit J 0
+gift A barrier 0
+gift A robot 0
+gift A god 0
+gift S barrier 2
+gift S robot 0
+gift S god 0
+gift J barrier 0
+gift J robot 0
+gift J god 0
+userloc A 0
+userloc S 0
+userloc J 0
+nextuser J

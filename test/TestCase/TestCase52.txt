@@ -1,0 +1,8 @@
+preset user AQ
+preset fund A 2000
+preset fund Q 2000
+preset map 3 Q 1
+step 3
+Query
+dump
+//交租是否正常

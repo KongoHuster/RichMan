@@ -1,0 +1,8 @@
+preset user QS
+preset credit Q 100
+preset credit S 10
+step 35
+2
+Query
+dump
+   //礼品屋是否正常到账

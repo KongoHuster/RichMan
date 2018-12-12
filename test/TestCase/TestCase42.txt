@@ -1,0 +1,11 @@
+preset user AQ
+preset credit A 100
+preset credit Q 100
+preset fund A 1000
+preset fund Q 1000
+preset map 2 Q 1
+preset gift A barrier 3
+Step 28
+F
+dump
+   //道具屋能否正常离开

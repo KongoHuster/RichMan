@@ -1,0 +1,23 @@
+preset user SJ
+preset fund S 1000
+preset fund J 1000
+preset credit S 10
+preset credit J 10
+preset gift S barrier 1
+preset gift S robot 1
+preset gift S god 1
+preset gift J barrier 1
+preset gift J robot 1
+preset gift J god 1
+preset userloc S 12 0
+preset userloc J 11 0
+preset nextuser S
+e
+step 20
+y
+block 2
+step 20
+y
+dump
+quit
+

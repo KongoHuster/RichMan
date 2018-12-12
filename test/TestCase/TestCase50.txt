@@ -1,0 +1,9 @@
+preset user SJA
+preset fund S 2000
+preset fund J 2000
+preset fund A 1000
+preset gift S barrier 2
+step 63
+4
+dump
+//魔法屋对非游戏玩家使用

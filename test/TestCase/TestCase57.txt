@@ -1,0 +1,9 @@
+preset user AQ
+preset fund A 10000
+preset fund Q 10000
+preset userloc A 62 0
+preset userloc Q 62 0
+preset nextuser A
+step 4
+dump
+quit

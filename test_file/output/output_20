@@ -1,0 +1,7 @@
+user AQ
+map 27 Q 0
+fund A 10000
+fund Q 10000
+userloc A 26
+userloc Q 27
+nextuser A

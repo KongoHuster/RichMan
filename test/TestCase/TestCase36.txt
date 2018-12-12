@@ -1,0 +1,7 @@
+preset user AJ
+preset credit A 100
+preset credit J 10
+step 65
+Query
+dump
+//矿地点数是否正常获得

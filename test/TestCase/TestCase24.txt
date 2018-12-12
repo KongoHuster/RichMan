@@ -1,0 +1,19 @@
+preset user AQ
+preset map 1 A 1
+preset map 2 A 1
+preset map 3 A 1
+preset map 4 A 1
+preset fund A 0
+preset fund Q 10000
+query
+step 1
+n
+step 1
+sell 2
+step 3
+n
+step 1
+y
+dump
+//test function of buy house
+//Q buy house of map 2

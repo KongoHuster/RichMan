@@ -1,0 +1,14 @@
+user SJ
+map 22 S 0
+map 27 J 0
+fund S 800
+fund J 800
+credit S 10
+credit J 10
+gift S barrier 1
+gift S robot 1
+gift J barrier 1
+gift J robot 1
+userloc S 22
+userloc J 27
+nextuser S

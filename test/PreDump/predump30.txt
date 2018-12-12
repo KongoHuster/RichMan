@@ -1,0 +1,8 @@
+user A
+fund A 10000
+credit A 0
+gift A barrier 0
+gift A robot 0
+gift A god 0
+userloc A 3
+nextuser A

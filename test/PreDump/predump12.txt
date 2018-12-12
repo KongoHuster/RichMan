@@ -1,0 +1,13 @@
+user A
+map[1] A 3
+map[2] A 3
+map[3] A 3
+map[4] A 3
+map[5] A 3
+fund A 1030
+credit A 0
+gift A barrier 0
+gift A robot 0
+gift A god 0
+userloc A 10
+nextuser A

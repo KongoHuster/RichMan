@@ -1,6 +1,6 @@
 user AQ
 fund A 10000
 fund Q 10000
-userloc A 63
+userloc A 63 2
 userloc Q 0
 nextuser Q

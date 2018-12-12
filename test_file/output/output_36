@@ -1,0 +1,12 @@
+user SJ
+map 1 J 0
+map 2 S 0
+map 3 J 0
+fund S 800
+fund J 600
+credit S 30
+credit J 80
+barrier in 27
+userloc S 2
+userloc J 3
+nextuser S

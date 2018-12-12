@@ -2,7 +2,7 @@ user AQ
 map 27 Q 0
 fund A 10000
 fund Q 10000
-gift A god 5
+gift A god 4
 userloc A 27
 userloc Q 2
 nextuser A

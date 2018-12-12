@@ -143,7 +143,7 @@ def test():
         if file[0] != '.':
             print(file)
             input_file_index = file.split('_')[1]
-            os.system('./rich < ../test_file/input/{}'.format(file))
+            os.system('cd ./zillionaire;./zillion < ../test_file/input/{}'.format(file))
             os.system('mv -f ./test_file/temp/output ./test_file/dump/dump_{}'.format(input_file_index))
             dump_file = './test_file/dump/dump_{}'.format(input_file_index)
             output_file = './test_file/output/output_{}'.format(input_file_index)

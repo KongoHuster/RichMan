@@ -1,0 +1,25 @@
+t
+preset user AQS
+preset map 7 A 1
+preset map 6 S 2
+preset map 15 Q 1
+preset fund A 1000
+preset fund Q 200
+preset fund S 5000
+preset fund J 3000
+preset credit A 50
+preset credit S 30
+preset credit Q 100
+preset barrier 2
+preset userloc A 4 0
+preset userloc S 10 0
+preset userloc Q 60 0
+preset gift J barrier 1
+preset gift Q barrier 1
+preset nextuser Q
+e
+step 6
+dump
+
+
+quit
